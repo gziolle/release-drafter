@@ -2,6 +2,8 @@
 
 This a repo to test [Release Drafter](https://github.com/marketplace/actions/release-drafter)
 
+[Github repo](https://github.com/release-drafter/release-drafter)
+
 ## How to test
 
 - Create a PR on this repo.
