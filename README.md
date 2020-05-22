@@ -12,6 +12,8 @@ This a repo to test [Release Drafter](https://github.com/marketplace/actions/rel
 
 - Go to the repo's release tab and check if the draft release has been updated.
 
+- This is a feature.
+
 ## Draft template
 
 It is possible to config the draft's template. Check it out [here](https://github.com/marketplace/actions/release-drafter#configuration)
