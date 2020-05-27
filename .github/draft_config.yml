@@ -1,4 +1,6 @@
-version-template: 'v$MAJOR.$MINOR.$PATCH-v$CPV'
+name-template: 'v$NEXT_PATCH_VERSION 🌈'
+tag-template: 'v$NEXT_PATCH_VERSION'
+version-template: '$MAJOR.$MINOR.$PATCH.$THIRD'
 categories:
   - title: '🚀 Features'
     label: 'feature'
