@@ -1,11 +1,13 @@
+version-template: '$MAJOR.$MINOR.$PATCH-v$CPV'
 categories:
   - title: '🚀 Features'
     label: 'feature'
   - title: '🐛 Bug Fixes'
     labels:
-      - 'fix'
-      - 'bugfix'
       - 'bug'
+  - title: 'Documentation'
+    labels: 
+      - ''  
 template: |
   ## What’s Changed
 
