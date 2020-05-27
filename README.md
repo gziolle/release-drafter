@@ -14,6 +14,8 @@ This a repo to test [Release Drafter](https://github.com/marketplace/actions/rel
 
 - This is a feature.
 
+- This is another feature
+
 ## Draft template
 
 It is possible to config the draft's template. Check it out [here](https://github.com/marketplace/actions/release-drafter#configuration)
