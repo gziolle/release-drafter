@@ -3,7 +3,7 @@ name: Release Drafter
 on:
   push:
     branches:
-      - f/add-important-feature
+      - master
 
 jobs:
   update_release_draft:
