@@ -1,15 +1,10 @@
-name-template: 'v$NEXT_PATCH_VERSION 🌈'
-tag-template: 'v$NEXT_PATCH_VERSION'
-version-template: '$MAJOR.$MINOR.$PATCH.$THIRD'
+version-template: '$MAJOR.$MINOR.$PATCH-v$CPV'
 categories:
   - title: '🚀 Features'
     label: 'feature'
   - title: '🐛 Bug Fixes'
     labels:
       - 'bug'
-  - title: 'Documentation'
-    labels: 
-      - ''  
 template: |
   ## What’s Changed
 
