@@ -3,8 +3,7 @@ categories:
   - title: '🚀 Features'
     label: 'feature'
   - title: '🐛 Bug Fixes'
-    labels:
-      - 'bug'
+    label: 'bug'
 template: |
   ## What’s Changed
 
