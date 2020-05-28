@@ -17,6 +17,7 @@ This a repo to test [Release Drafter](https://github.com/marketplace/actions/rel
 - This is another feature
 
 - Third feature
+- test
 
 ## Draft template
 
