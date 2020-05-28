@@ -19,6 +19,7 @@ This a repo to test [Release Drafter](https://github.com/marketplace/actions/rel
 - Third feature
 - test
 - test
+- test
 
 
 ## Draft template
